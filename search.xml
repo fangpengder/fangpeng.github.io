@@ -1,43 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[Dell-R720清除bios密码]]></title>
-    <url>%2F2018%2F06%2F27%2FDell-R720%E6%B8%85%E6%A5%9Abios%E5%AF%86%E7%A0%81%2F</url>
-    <content type="text"><![CDATA[Dell-R730清除BIOS密码]]></content>
+<search> 
+  
+    
+    <entry>
+      <title>Dell-R720清除bios密码</title>
+      <link href="/2018/06/27/Dell-R720%E6%B8%85%E6%A5%9Abios%E5%AF%86%E7%A0%81/"/>
+      <url>/2018/06/27/Dell-R720%E6%B8%85%E6%A5%9Abios%E5%AF%86%E7%A0%81/</url>
+      <content type="html"><![CDATA[<center><strong>Dell-R730清除BIOS密码</strong></center><p><br></p><div class="row">    <embed src="Dell-R730清除BIOS密码.pdf" width="100%" height="550" type="application/pdf"></div> <p><br></p>]]></content>
+      
       <categories>
-        <category>服务器相关</category>
+          
+          <category> 服务器相关 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[种子收藏]]></title>
-    <url>%2F2018%2F06%2F16%2F%E7%A7%8D%E5%AD%90%E6%94%B6%E8%97%8F%2F</url>
-    <content type="text"><![CDATA[]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>种子收藏</title>
+      <link href="/2018/06/16/%E7%A7%8D%E5%AD%90%E6%94%B6%E8%97%8F/"/>
+      <url>/2018/06/16/%E7%A7%8D%E5%AD%90%E6%94%B6%E8%97%8F/</url>
+      <content type="html"><![CDATA[<p><img src="http://mebook.cc/wp-content/uploads/2017/03/54551490608537.jpg" alt="神秘"></p>]]></content>
+      
       <categories>
-        <category>吐血收藏</category>
+          
+          <category> 吐血收藏 </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[Mac制作MacOS-U盘启动]]></title>
-    <url>%2F2018%2F06%2F15%2FMac%E5%88%B6%E4%BD%9CMacOS-U%E7%9B%98%E5%90%AF%E5%8A%A8%2F</url>
-    <content type="text"><![CDATA[app源制作U盘启动方式 App Store下载Mac OS 格式化U盘为Mac OS X扩展 (日志式)格式,GUID分区图,名称”Sierra”1$ sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/Sierra --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction dmg源制作U盘启动方式 格式化U盘为Mac OS X扩展 (日志式)格式,GUID分区图,名称”Sierra” 双击dmg，会磁盘工具里显示相应磁盘镜像 选分好区的U盘,点击恢复,恢复来源选择刚挂载的镜像]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Mac制作MacOS-U盘启动</title>
+      <link href="/2018/06/15/Mac%E5%88%B6%E4%BD%9CMacOS-U%E7%9B%98%E5%90%AF%E5%8A%A8/"/>
+      <url>/2018/06/15/Mac%E5%88%B6%E4%BD%9CMacOS-U%E7%9B%98%E5%90%AF%E5%8A%A8/</url>
+      <content type="html"><![CDATA[<h3 id="app源制作U盘启动方式"><a href="#app源制作U盘启动方式" class="headerlink" title="app源制作U盘启动方式"></a>app源制作U盘启动方式</h3><ol><li>App Store下载Mac OS</li><li>格式化U盘为Mac OS X扩展 (日志式)格式,GUID分区图,名称”Sierra”<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/Sierra --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction</span><br></pre></td></tr></table></figure></li></ol><h3 id="dmg源制作U盘启动方式"><a href="#dmg源制作U盘启动方式" class="headerlink" title="dmg源制作U盘启动方式"></a>dmg源制作U盘启动方式</h3><ol><li>格式化U盘为Mac OS X扩展 (日志式)格式,GUID分区图,名称”Sierra”</li><li>双击dmg，会磁盘工具里显示相应磁盘镜像</li><li>选分好区的U盘,点击恢复,恢复来源选择刚挂载的镜像</li></ol>]]></content>
+      
       <categories>
-        <category>Mac OS</category>
+          
+          <category> Mac OS </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[Python及pip环境变量配置]]></title>
-    <url>%2F2018%2F06%2F15%2FPython%E5%8F%8Apip%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE%2F</url>
-    <content type="text"><![CDATA[Python1path=%path%;C:\Python27 pip1path=%path%;C:\Python27\Scripts]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Python及pip环境变量配置</title>
+      <link href="/2018/06/15/Python%E5%8F%8Apip%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE/"/>
+      <url>/2018/06/15/Python%E5%8F%8Apip%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AE/</url>
+      <content type="html"><![CDATA[<h3 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">path=%path%;C:\Python27</span><br></pre></td></tr></table></figure><h3 id="pip"><a href="#pip" class="headerlink" title="pip"></a>pip</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">path=%path%;C:\Python27\Scripts</span><br></pre></td></tr></table></figure>]]></content>
+      
       <categories>
-        <category>Windows</category>
+          
+          <category> Windows </category>
+          
       </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[Windows中Zabbix_Agent服务相关]]></title>
-    <url>%2F2018%2F06%2F15%2FWindows%E4%B8%ADZabbix-Agent%E6%9C%8D%E5%8A%A1%E7%9B%B8%E5%85%B3%2F</url>
-    <content type="text"><![CDATA[添加服务1C:\zabbix\bin\zabbix_agentd.exe -i -c C:\zabbix\conf\zabbix_agentd.win.conf zabbix_agentd.exe [976]: service [Zabbix Agent] installed successfullyzabbix_agentd.exe [976]: event source [Zabbix Agent] installed successfully 启动程序1C:\zabbix\bin\zabbix_agentd.exe -c C:\zabbix\conf\zabbix_agentd.win.conf -s zabbix_agentd.exe [2360]: service [Zabbix Agent] started successfully 报如下错误,重启或注销系统[10480]: ERROR: cannot create service [Zabbix Agent][2224]: ERROR: service [Zabbix Agent] already exists[11212]: ERROR: cannot start service [Zabbix Agent] 删除服务1sc delete "Zabbix Agent" 双引号为英文号]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>Windows中Zabbix_Agent服务相关</title>
+      <link href="/2018/06/15/Windows%E4%B8%ADZabbix-Agent%E6%9C%8D%E5%8A%A1%E7%9B%B8%E5%85%B3/"/>
+      <url>/2018/06/15/Windows%E4%B8%ADZabbix-Agent%E6%9C%8D%E5%8A%A1%E7%9B%B8%E5%85%B3/</url>
+      <content type="html"><![CDATA[<h3 id="添加服务"><a href="#添加服务" class="headerlink" title="添加服务"></a>添加服务</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">C:\zabbix\bin\zabbix_agentd.exe -i -c C:\zabbix\conf\zabbix_agentd.win.conf</span><br></pre></td></tr></table></figure><p>zabbix_agentd.exe [976]: service [Zabbix Agent] installed successfully<br>zabbix_agentd.exe [976]: event source [Zabbix Agent] installed successfully</p><h3 id="启动程序"><a href="#启动程序" class="headerlink" title="启动程序"></a>启动程序</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">C:\zabbix\bin\zabbix_agentd.exe  -c C:\zabbix\conf\zabbix_agentd.win.conf -s</span><br></pre></td></tr></table></figure><p>zabbix_agentd.exe [2360]: service [Zabbix Agent] started successfully</p><h3 id="报如下错误-重启或注销系统"><a href="#报如下错误-重启或注销系统" class="headerlink" title="报如下错误,重启或注销系统"></a>报如下错误,重启或注销系统</h3><p>[10480]: ERROR: cannot create service [Zabbix Agent]<br>[2224]: ERROR: service [Zabbix Agent] already exists<br>[11212]: ERROR: cannot start service [Zabbix Agent]</p><h3 id="删除服务"><a href="#删除服务" class="headerlink" title="删除服务"></a>删除服务</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sc delete <span class="string">"Zabbix Agent"</span></span><br></pre></td></tr></table></figure><p>双引号为英文号</p>]]></content>
+      
       <categories>
-        <category>Windows</category>
+          
+          <category> Windows </category>
+          
       </categories>
-  </entry>
+      
+      
+    </entry>
+    
+  
+  
 </search>
